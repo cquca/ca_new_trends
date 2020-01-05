@@ -4,7 +4,7 @@ Just for students to write the report
 
 [大道至简——RISC-V架构之魂（中）](https://mp.weixin.qq.com/s/rB9ln7-cDb0VjtikD6KWzw)
 
-[大道至简——RISC-V架构之魂（下）](https://mp.weixin.qq.com/s/rB9ln7-cDb0VjtikD6KWzw)
+[大道至简——RISC-V架构之魂（下）](https://mp.weixin.qq.com/s/sIkKnJt6rQLxM5GM60OnLA)
 
 [RISC-V资料](https://github.com/l919898756/RISC-V_article_paper_src)(包含论文、文档等)
 
